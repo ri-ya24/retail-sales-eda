@@ -12,13 +12,6 @@ The goal is to understand sales performance, customer behaviour, and patterns th
 - NumPy
 - Matplotlib
 
-## Skills Demonstrated
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Insight Generation
-- Data Preprocessing
-
 ## Dataset
 The dataset (`Superstore Sales Dataset.csv`) contains 9,800 retail transaction records with information such as:
 
@@ -32,6 +25,7 @@ The dataset (`Superstore Sales Dataset.csv`) contains 9,800 retail transaction r
 - Product Name
 - Sales
 **Source:** Kaggle Superstore Sales Dataset
+
 ## Project Workflow
 The following steps were performed during the analysis:
 
@@ -70,7 +64,7 @@ Compared sales among different customer segments:
 
 ### Sales Distribution Analysis
 Analyzed transaction value distribution and identified potential outliers in sales data.
-# Key Insights
+## Key Insights
 1. Furniture generated the highest sales.
 2. The West region recorded the highest revenue.
 3. California and Texas were the top-performing states.
@@ -80,6 +74,17 @@ Analyzed transaction value distribution and identified potential outliers in sal
 
 ## Note on Data
 Some Sales values in this dataset are unusually high compared to typical retail transactions. This reflects a characteristic of the source data itself rather than an error introduced during cleaning.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insight Generation
+- Pandas
+- NumPy
+- Matplotlib
 
 ## Conclusion
 This project demonstrates how Exploratory Data Analysis (EDA) can help businesses understand sales performance, discover patterns, and generate meaningful insights using Python, Pandas, NumPy, and Matplotlib.
