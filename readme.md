@@ -13,8 +13,8 @@ The goal is to understand sales performance, customer behaviour, and patterns th
 - Matplotlib
 
 ## Dataset
+**Source:** Kaggle – Superstore Sales Dataset
 The dataset (`Superstore Sales Dataset.csv`) contains 9,800 retail transaction records with information such as:
-
 - Order Date
 - Ship Date
 - Customer Segment
@@ -24,7 +24,7 @@ The dataset (`Superstore Sales Dataset.csv`) contains 9,800 retail transaction r
 - Sub-Category
 - Product Name
 - Sales
-**Source:** Kaggle Superstore Sales Dataset
+
 
 ## Project Workflow
 The following steps were performed during the analysis:
