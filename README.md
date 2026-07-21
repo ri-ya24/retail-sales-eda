@@ -27,6 +27,7 @@ The objective of this project is to transform raw retail transaction data into m
 ---
 
 ## 📂 Dataset
+**Source:** Kaggle – Superstore Sales Dataset.
 
 - Superstore Sales Dataset
 - 9,800 Records
@@ -97,4 +98,12 @@ Some sales values in this dataset are unusually high compared to typical retail 
 ## ✅ Conclusion
 
 This project demonstrates how Exploratory Data Analysis (EDA) can be used to clean raw retail sales data, identify trends, visualize business performance, and generate actionable insights using Python.
+
+
+## 👩‍💻 Author
+
+**Riya Singh**
+
+- GitHub: https://github.com/ri-ya24
+- LinkedIn:https://www.linkedin.com/in/riya-singh-1696b7363/
 
