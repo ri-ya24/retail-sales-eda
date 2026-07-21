@@ -71,11 +71,12 @@ Analyzed transaction value distribution and identified potential outliers in sal
 - Some transactions had unusually high sales values, representing characteristics of the source dataset.
 ## Note on Data
 Some Sales values in this dataset are unusually high compared to typical retail transactions. This reflects a characteristic of the source data itself rather than an error introduced during cleaning.
-## Project Files
-- `Retail_Sales_EDA.ipynb` - Complete exploratory data analysis notebook
-- `Superstore Sales Dataset.csv` - Dataset used for analysis
+
 ## Conclusion
 This project demonstrates how Exploratory Data Analysis (EDA) can help businesses understand sales performance, discover patterns, and generate meaningful insights using Python, Pandas, NumPy, and Matplotlib.
 
+## Project Files
+- [Retail_Sales_EDA.ipynb](Retail_Sales_EDA.ipynb) - Complete exploratory data analysis notebook
+- [Superstore Sales Dataset.csv](Superstore%20Sales%20Dataset.csv) - Dataset used for analysis
 
 
