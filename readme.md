@@ -1,7 +1,7 @@
 # Retail Sales Exploratory Data Analysis (EDA)
 
 ## Objective
-This project analyzes a retail sales dataset to identify sales trends, clean and preprocess data, visualize key metrics, and generate business insights using Python.
+The goal of this project is to explore retail sales data, identify meaningful trends and patterns, and generate business insights through exploratory data analysis (EDA).
 
 The goal is to understand sales performance, customer behaviour, and patterns that can support data-driven business decisions.
 
@@ -11,6 +11,13 @@ The goal is to understand sales performance, customer behaviour, and patterns th
 - Pandas
 - NumPy
 - Matplotlib
+
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insight Generation
+- Data Preprocessing
 
 ## Dataset
 The dataset (`Superstore Sales Dataset.csv`) contains 9,800 retail transaction records with information such as:
@@ -24,6 +31,7 @@ The dataset (`Superstore Sales Dataset.csv`) contains 9,800 retail transaction r
 - Sub-Category
 - Product Name
 - Sales
+**Source:** Kaggle Superstore Sales Dataset
 ## Project Workflow
 The following steps were performed during the analysis:
 
@@ -63,12 +71,12 @@ Compared sales among different customer segments:
 ### Sales Distribution Analysis
 Analyzed transaction value distribution and identified potential outliers in sales data.
 # Key Insights
-- Furniture generated the highest total sales among all categories, followed by Technology and Office Supplies.
-- The West region led in total sales, followed by the East region.
-- California and Texas emerged as the top-performing states.
-- The Consumer segment contributed the largest share of total sales.
-- Monthly sales trends showed fluctuations and seasonal patterns.
-- Some transactions had unusually high sales values, representing characteristics of the source dataset.
+1. Furniture generated the highest sales.
+2. The West region recorded the highest revenue.
+3. California and Texas were the top-performing states.
+4. Consumer customers contributed the largest share of sales.
+5. Monthly sales showed noticeable seasonal fluctuations.
+6. Several high-value transactions appeared as outliers.
 
 ## Note on Data
 Some Sales values in this dataset are unusually high compared to typical retail transactions. This reflects a characteristic of the source data itself rather than an error introduced during cleaning.
