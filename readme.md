@@ -67,8 +67,9 @@ Analyzed transaction value distribution and identified potential outliers in sal
 - The West region led in total sales, followed by the East region.
 - California and Texas emerged as the top-performing states.
 - The Consumer segment contributed the largest share of total sales.
--Monthly sales trends showed fluctuations and seasonal patterns.
+- Monthly sales trends showed fluctuations and seasonal patterns.
 - Some transactions had unusually high sales values, representing characteristics of the source dataset.
+
 ## Note on Data
 Some Sales values in this dataset are unusually high compared to typical retail transactions. This reflects a characteristic of the source data itself rather than an error introduced during cleaning.
 
