@@ -71,7 +71,7 @@ An interactive Power BI dashboard was created to visualize key retail sales insi
 
 ### Dashboard Preview
 
-![Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard](images/dashboard.png)
 
 🔗 View Interactive Dashboard:
 [Power BI Dashboard](images/Retail_Sales_Dashboard.pbix)
