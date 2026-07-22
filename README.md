@@ -3,10 +3,9 @@
 ## 📌 Project Overview
 
 Retail sales datasets contain valuable business insights, but raw transaction data often requires proper cleaning, analysis, and visualization to identify meaningful patterns.
-
 In this project, I performed Exploratory Data Analysis (EDA) using Python to clean and analyze retail sales data, uncover trends, and generate actionable business insights. Additionally, I developed an interactive Power BI dashboard to visualize sales performance across categories, regions, states, customer segments, and monthly trends.
+The project demonstrates how data analysis and visualization can transform raw sales data into clear insights that support data-driven decision-making
 
-The project demonstrates how data analysis and visualization can transform raw sales data into clear insights that support data-driven decision-making.
 
 ## 🎯 Business Objective
 
@@ -115,6 +114,7 @@ An interactive Power BI dashboard was created to visualize key retail sales insi
 ## 📝 Note on Data
 
 Some sales values in this dataset are unusually high compared to typical retail transactions. These values are part of the original dataset and were not modified during data cleaning.
+
 ---
 ## ✅ Conclusion
 
