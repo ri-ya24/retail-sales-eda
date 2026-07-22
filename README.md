@@ -36,7 +36,7 @@ The objective of this project is to transform raw retail transaction data into m
 
 Shows the sales contribution of each product category, helping identify the highest revenue-generating category.
 
-![Category-wise Sales](images/sale by category.png)
+(images/sale by category.png)
 
 ---
 
