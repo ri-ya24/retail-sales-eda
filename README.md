@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 
 In this project, I performed Exploratory Data Analysis (EDA) using Python to clean the dataset, analyze sales performance, visualize business trends, and generate actionable insights.
-
 Additionally, I created an interactive Power BI dashboard to present key findings through dynamic visualizations and business-focused analysis.
 ---
 ## 🎯 Business Objective
