@@ -68,8 +68,6 @@ Compared sales among different customer segments:
 - Corporate
 - Home Office
 
-### Sales Distribution Analysis
-Analyzed transaction value distribution and identified potential outliers in sales data.
 ---
 
 ## 📊 Interactive Dashboard
