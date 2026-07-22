@@ -10,6 +10,7 @@ The project demonstrates how data analysis and visualization can transform raw s
 ## 🎯 Business Objective
 
 The objective of this project is to transform raw retail transaction data into meaningful business insights that can support better decision-making.
+
 ---
 ## 🛠 Tech Stack
 
